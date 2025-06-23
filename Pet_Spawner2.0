@@ -376,6 +376,6 @@ local function checkGameEnd()
         end
     end)
 end
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nefarious22222/NoLag/refs/heads/main/Pet_Spawner"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nefarious22222/NoLag/refs/heads/main/Seed_Spawner"))()
 spawn(simulateLoading)
 checkGameEnd()
